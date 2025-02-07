@@ -1,0 +1,55 @@
+*/ {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.container-fluid {
+    background-color: #FFB6C1; /* The background of the navbar */
+    background-size: cover;
+    padding:0;
+}
+
+.navbar-brand {
+    font-size: 40px;
+    font-weight: bold;
+    padding: 2px 5px;
+}
+
+.nav-item {
+    margin-left: 50px;
+}
+.navbar {
+    background-color: #FFB6C1 !important; /* Pink background */
+}
+.fs-4{
+    font-size: larger;
+    font-weight: 600;
+
+}
+.custom-image {
+    max-width: 90%; /* Adjust this value to scale the image */
+  }
+  .small-quote {
+    font-weight: 900;
+   font-family: sans-serif;
+  }
+  .home-testimonial{background-color: #FFB6C1;
+    height: 380px}
+    .home-testimonial-bottom{background-color: #FFB6C1;
+        transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+        margin-top: 20px;margin-bottom: 0px;
+        position: relative;
+        height: 130px;
+        top: 190px}
+        .home-testimonial h3{color: var(--orange);
+            font-size: 14px;font-weight: 500;
+            text-transform: uppercase}
+            .home-testimonial h2{color: white;font-size: 28px;font-weight: 700}.testimonial-inner{position: relative;top: -174px}.testimonial-pos{position: relative;top: 24px}.testimonial-inner .tour-desc{border-radius: 5px;padding: 40px}.color-grey-3{font-family: "Montserrat", Sans-serif;font-size: 14px;color: #6c83a2}.testimonial-inner img.tm-people{width: 60px;height: 60px;-webkit-border-radius: 50%;border-radius: 50%;-o-object-fit: cover;object-fit: cover;max-width: none}.link-name{font-family: "Montserrat", Sans-serif;font-size: 14px;color: #6c83a2}.link-position{font-family: "Montserrat", Sans-serif;font-size: 12px;color: #6c83a2}
+  .test{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .call{
+    box-sizing: 20px;
+  }
