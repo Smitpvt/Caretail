@@ -1,0 +1,30 @@
+# Caretail Veterinary Website
+
+## 🐾 About Caretail
+Caretail is a simple and elegant frontend veterinary website built using Bootstrap, JavaScript, and GitHub. It provides a user-friendly interface for browsing and exploring pet care and veterinary products.
+
+## 🌟 Features
+- 🏪 **Responsive Design** – Optimized for all screen sizes.
+- 🎨 **Bootstrap Framework** – Styled with Bootstrap components.
+- 🔎 **Easy Navigation** – Intuitive layout for seamless browsing.
+- 🐶 **Pet Care Focused** – Specially designed for veterinary services and pet owners.
+- 📄 **Static Website** – No backend, purely frontend using HTML, CSS, Bootstrap, and JavaScript.
+- 🔄 **Version Control** – Managed with Git and hosted on GitHub.
+
+## 🚀 Technologies Used
+- **HTML**
+- **CSS**
+- **Bootstrap**
+- **JavaScript**
+- **Git & GitHub**
+
+## 🛠️ Installation & Setup
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/your-username/caretail.git
+   cd caretail
+   ```
+2. **Open `index.html` in a browser.**
+
+## 📞 Contact
+For any queries or feedback, reach out to me at (smitchavan2011@gmail.com).
