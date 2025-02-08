@@ -53,3 +53,32 @@
   .call{
     box-sizing: 20px;
   }
+  .custom-image {
+    max-width:100%;
+     /* Increase this value if you want a bigger image */
+  }
+  .carousel-item {
+    position: relative;
+    height: 500px; /* Adjust height for a clean, balanced look */
+  }
+
+  .carousel-item img {
+    object-fit: cover;
+    height: 100%;
+    filter: brightness(0.6); /* Adds a slight dark overlay for better text visibility */
+  }
+
+  .carousel-caption {
+    position: absolute;
+    bottom: 20%;
+    text-align: center;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    border-radius: 10px;
+  }
+
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(1); /* Makes navigation icons white */
+  }
+  
